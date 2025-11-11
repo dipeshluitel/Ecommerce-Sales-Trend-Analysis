@@ -1,4 +1,4 @@
-# 🛒 E-commerce Sales Data Analysis (Ongoing)
+# E-commerce Sales Data Analysis (Ongoing)
 
 This project focuses on analyzing an e-commerce dataset to uncover key business insights such as top-performing products, regional sales patterns, and monthly sales trends.  
 It demonstrates end-to-end data analysis — from cleaning and preprocessing to visualization — using Python’s data analytics libraries.
