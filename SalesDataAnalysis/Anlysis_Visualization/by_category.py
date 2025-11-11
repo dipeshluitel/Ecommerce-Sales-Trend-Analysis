@@ -19,3 +19,6 @@ sub_sales['Sales'].plot(kind='bar', figsize=(10,5))
 plt.title('Top Sub-Categories by Sales (Top 15)')
 plt.tight_layout()
 plt.show()
+
+# cat_sales.to_csv("TopProductByCategory.csv")
+# sub_sales.to_csv("TopProductBySubCategory.csv")

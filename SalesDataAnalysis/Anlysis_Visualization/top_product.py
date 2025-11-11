@@ -19,3 +19,4 @@ plt.title("Top 10 Products of all time by Sales")
 plt.tight_layout()
 plt.show()
 
+# top_product.to_csv('results/Top10products.csv')

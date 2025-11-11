@@ -15,3 +15,5 @@ sns.barplot(data=regional_sales,x='Sales',y='Region',orient='h')
 plt.title("Regional Sales Comparision")
 plt.tight_layout()
 plt.show()
+
+# regional_sales.to_csv('results/RegionalReport.csv')

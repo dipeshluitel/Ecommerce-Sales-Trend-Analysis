@@ -25,3 +25,5 @@ plt.ylabel('Amount')
 plt.legend()
 plt.tight_layout()
 plt.show()
+
+# monthly.to_csv('results/MonthlySalesProfit.csv')
