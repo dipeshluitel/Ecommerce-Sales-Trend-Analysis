@@ -5,7 +5,7 @@ It demonstrates end-to-end data analysis — from cleaning and preprocessing to 
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 
 **Objective:**  
 To explore, clean, and analyze e-commerce sales data to identify:
@@ -16,7 +16,7 @@ To explore, clean, and analyze e-commerce sales data to identify:
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 | Category | Tools Used |
 |-----------|-------------|
@@ -27,11 +27,11 @@ To explore, clean, and analyze e-commerce sales data to identify:
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
-- 📈 The **Sales and Profit trend** shows significant monthly variations influenced by category and region.  
-- 🏆 **Top products** contribute a large share of overall revenue, revealing a skewed product performance.  
-- 🌎 **Regional sales comparison** highlights where the business performs best.  
-- 📅 **Monthly analysis** helps identify seasonal sales patterns and growth opportunities.
+- The **Sales and Profit trend** shows significant monthly variations influenced by category and region.  
+- **Top products** contribute a large share of overall revenue, revealing a skewed product performance.  
+-  **Regional sales comparison** highlights where the business performs best.  
+-  **Monthly analysis** helps identify seasonal sales patterns and growth opportunities.
 
 ---
