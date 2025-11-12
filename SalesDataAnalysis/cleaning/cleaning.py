@@ -29,8 +29,12 @@ def add_col(df):
     df['Delivery Days']=(df['Ship Date']-df['Order Date']).dt.days
     df['Profit Margin']=(df['Profit']/df['Sales'])*100
 
+
+
 fix_types(df)
 add_col(df)
-print(df.info())
+
+if __name__ == "__main__":
+    print(df.info())
 
 # df.to_csv("data/CleanedSuperStore.csv", index=False)
